@@ -8,4 +8,5 @@ for(i=1;i<6;i++)
 {
     printf("%d",i);
 }
+int x=5+5;
 }
